@@ -5,6 +5,7 @@
 - 😎 See what I've done thus far at https://itsmeniduka.engineer/
 - 📫 Email me via admin@itsmeniduka.engineer to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/niduka_akalanka_/
+- 💬 Text me on telegram https://t.me/NidukaAkalanka
 
 <!---
 theZSSHs/theZSSHs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

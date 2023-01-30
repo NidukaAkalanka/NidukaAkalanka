@@ -1,6 +1,6 @@
 # 👋 Hi there!
 - 😊 I’m Niduka Akalanka
-- 👦🏻 I'm 17 years old
+- 👦🏻 I'm 18 years old
 - 👀 I’m interested in HTML,CSS,Javascript,Node,Python and...
 - 🌱 I’m currently learning Advanced General IT @R/Dharmaloka College, Rathnapura, LK
 - 💞️ I’m looking to collaborate on building websites and web apps, creating chat bots, Linux server operations and...

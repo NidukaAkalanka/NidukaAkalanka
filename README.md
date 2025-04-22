@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on building websites and web apps, creating chat bots, Linux server operations and...
 - 😎 See what I've done thus far at https://nidukaakalanka.github.io
 - 📫 Email me via nidukaakalanka@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/niduka_akalanka_/
+- 🤩 Follow me on Instagram https://www.instagram.com/nidukaakalanka/
 - 💬 Text me on telegram https://t.me/NidukaAkalanka
 
 Signing Off, 

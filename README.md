@@ -2,12 +2,10 @@
 - 😊 I’m Niduka Akalanka
 - 👦🏻 I'm 20 years old
 - 👀 I’m interested in HTML,CSS,Javascript,Node,Python and...
-- 🌱 I’m currently learning Python @self
+- 🌱 I’m currently learning Java and C @self
 - 💞️ I’m looking to collaborate on building websites and web apps, creating chat bots, Linux server operations and...
 - 😎 See what I've done thus far at https://nidukaakalanka.github.io
 - 📫 Email me via nidukaakalanka@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/nidukaakalanka/
-- 💬 Text me on telegram https://t.me/NidukaAkalanka
 
 Signing Off, 
 
